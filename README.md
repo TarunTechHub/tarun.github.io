@@ -1,2 +1,1 @@
-# tarun.github.io
-My personal porfolio
+#My Personal Portfolio
